@@ -9,6 +9,5 @@ body {
 label{
     display: inline-block;
     background-color: rgb(26, 206, 197);
-    width: 100px;
-    height: 100px;
+    margin: 0.5rem 0;
 }
